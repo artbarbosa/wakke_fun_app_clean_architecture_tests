@@ -2,12 +2,12 @@
 
 ## Layout
 
-![WhatsApp-Video-2022-07-28-at-17 25 48]()
+![WhatsApp-Video-2022-09-02-at-14 04 20](https://user-images.githubusercontent.com/91624613/188203610-d1a81aab-a970-4ac2-99fb-87a6dba1501a.gif)
 
 ## Definição e Padrões de Projetos
 
 # Flutter Version
-A Versão do flutter que é utilizada neste projeto foi a 3.0.5.
+A Versão do flutter que é utilizada neste projeto foi a 3.3.0.
 
 # Apresentão geral da Arquitetura
 O sistema foi dividido de forma modular, esses mesmo modulos podem conter submodules e cada modulo contém seu proprio sistema de arquitetura, cujo o utilizado neste projeto foi o Clean Dart.
