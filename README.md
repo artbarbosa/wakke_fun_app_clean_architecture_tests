@@ -2,7 +2,7 @@
 
 ## Layout
 
-![WhatsApp-Video-2022-07-28-at-17 25 48]()
+![WhatsApp-Video-2022-09-02-at-14 04 20](https://user-images.githubusercontent.com/91624613/188203610-d1a81aab-a970-4ac2-99fb-87a6dba1501a.gif)
 
 ## Definição e Padrões de Projetos
 
